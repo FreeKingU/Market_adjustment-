@@ -10,5 +10,7 @@ Our goal is to use housing data for King County, Washington in order to analyze 
 
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/YP.png)
 
+* Although there seems to be more newer built houses that are priced higher, there does not seem to be any effect on price based on if the house is newer or older.
+
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R2.png)
 
