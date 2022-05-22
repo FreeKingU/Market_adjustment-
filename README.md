@@ -6,6 +6,8 @@ Our goal is to use housing data for King County, Washington in order to analyze 
 
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R.png)
 
+* There seems to be a positive correlation and relationship between the square footage of the house and price
+
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/YP.png)
 
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R2.png)
