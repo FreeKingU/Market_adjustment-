@@ -1,11 +1,12 @@
 # Market_adjustment
 
 Applications and Programs Used:
-Jupyter Notebook
-Tableau
-PGAdmin
-Slack
-Zoom
+
+* Jupyter Notebook
+* Tableau
+* PGAdmin
+* Slack
+* Zoom
 
 ## Overview
 
