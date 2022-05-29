@@ -42,5 +42,7 @@ Our goal is to use housing data for King County, Washington in order to analyze 
 * Older and Newer homes seem to the biggest median priced homes.
 * Home built between 1930 and 2000, seems to sell for less then older and newer homes.
 
+## Calculations:
+
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R2.png)
 
