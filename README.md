@@ -34,5 +34,10 @@ Our goal is to use housing data for King County, Washington in order to analyze 
 * The number of bedrooms seem to only slightly have an effect on the price of a home.
 * The number of bathrooms suprisingly show a strong positive correlation and significant effect on a home's price.
 
+![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/Paveen/Sheet%203.png)
+
+* High priced homes seem to be concentrated in an area.
+* One area close the the waterfront has the highest priced homes.
+
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R2.png)
 
