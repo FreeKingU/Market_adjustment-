@@ -1,5 +1,12 @@
 # Market_adjustment
 
+Applications and Programs Used:
+Jupyter Notebook
+Tableau
+PGAdmin
+Slack
+Zoom
+
 ## Overview
 
 Our goal is to use housing data for King County, Washington in order to analyze and predict the price of a house  based on criterias such as list price, sell price, square footage, amount of land, how many bedrooms and or bathrooms.  We want to see what factors effect the pricing of housing.  The data we are using was found seraching the web, but we hope to be able find, add, or revise more data along the way.  We plan to use a Multilinear Regression Machine Learning algorithm in order calculate our data.  
