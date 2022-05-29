@@ -25,9 +25,14 @@ Our goal is to use housing data for King County, Washington in order to analyze 
 
 * Based on the totals for prices sold for homes, it seems that the month of April and May timeframe has the most home sales.
 
-![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/YP.png)
+![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/Paveen/Sheet%202.png)
 
-* Although there seems to be more newer built houses that are priced higher, there does not seem to be any effect on price based on if the house is newer or older.
+* There is a strong positive correlation between Square Footage of the main floor of a home and sell price.
+* The Square Footage of the the lot size does not seem to have a significant direct effec on the sell price of the home.
+* The overall Square Footage of the home has a strong positive correlation for the sell price of the home.
+* There is a slight positive correlation between the Square Footage of the basement of a home and sell price.
+* The number of bedrooms seem to only slightly have an effect on the price of a home.
+* The number of bathrooms suprisingly show a strong positive correlation and significant effect on a home's price.
 
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R2.png)
 
