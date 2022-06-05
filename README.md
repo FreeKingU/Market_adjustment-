@@ -15,7 +15,12 @@ The current housing market has been very tubulent with never before seen prices 
 
 ## Data Source:
 
-Our data was provided and found through Kaggle.  The information contains housing data for King County, Washington, which is mainly a Seattle Metorpolitan Area.  Our dataset contains data with house prices, number of bedrooms, number of bathrooms, lot size, square footage and other additional features.  The dataset was processed and cleaned to meet our needs for analysis.
+Our data was provided and found through Kaggle.  The information contains housing data for King County, Washington, which is mainly a Seattle Metorpolitan Area.  Our dataset contains data with house prices, number of bedrooms, number of bathrooms, lot size, square footage and other additional features.  The dataset was processed and cleaned to meet our needs for analysis and contains 21,613 houses for the years of 2014 and 2015.
+
+* The column for year of renovation was changed from year renovated to just Yes or No if it was renovated
+* The column for waterfront was changed from 0 and 1 to just Yes or No if it was a waterfront house.
+
+The data was processed using a combination of Pandas/Python and Excel.
 
 Applications Used:
 
