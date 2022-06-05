@@ -46,6 +46,8 @@ The data was processed using a combination of Pandas/Python and Excel.
 
 ## Database:
 
+Our tables were created using PostgresSQL and pgAdmin to create our database.  The data was then exported out to csv format and then imported as a dataframe into Jupyter Notebook for analysis.  Due to the costs of host cloud services we decided not to persuit that route.
+
 
 ## Results:
 
