@@ -13,7 +13,7 @@ The current housing market has been very tubulent with never before seen prices 
 * Paveen Bunyasrie
 * Enrique E.
 
-### Applications Used:
+#### Applications Used:
 
 * Jupyter Notebook
 * Tableau
@@ -24,7 +24,7 @@ The current housing market has been very tubulent with never before seen prices 
 * Github
 * Google Drive
 
-### Programming Languages:
+#### Programming Languages:
 
 * Python modules and libraries
 * SQL
