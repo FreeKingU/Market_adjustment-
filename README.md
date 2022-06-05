@@ -1,5 +1,8 @@
 # Seattle House Market
 
+## Project Overview:
+
+Our goal is to use housing data for King County, Washington and implement an exploratory analysis and potentially predict the sell price of a house based on criterias such from the given listed prices, quare footage, amount of land, how many bedrooms and or bathrooms.  We want to see what factors effect the pricing of housing and have a direct effect on the price of the house.  The data was provided through Kaggle, but we hope to be able find, add, or revise more data along the way.  What criterias effect housing prices the most?
 Applications Used:
 
 * Jupyter Notebook
@@ -12,10 +15,6 @@ Programming:
 
 * Python
 * SQL
-
-## Overview:
-
-Our goal is to use housing data for King County, Washington in order to analyze and potentially predict the sell price of a house based on criterias such from the given listed prices, quare footage, amount of land, how many bedrooms and or bathrooms.  We want to see what factors effect the pricing of housing and have a direct effect on the price of the house.  The data we are using was found seraching the web, but we hope to be able find, add, or revise more data along the way.  We plan to use a Multilinear Regression Machine Learning algorithm in order calculate our data.  
 
 ## Findings:
 
