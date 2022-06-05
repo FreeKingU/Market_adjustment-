@@ -4,6 +4,15 @@
 
 Our goal is to use housing data for King County, Washington and implement an exploratory analysis and potentially predict the sell price of a house based on criterias such from the given listed prices, quare footage, amount of land, how many bedrooms and or bathrooms.  We want to see what factors effect the pricing of housing and have a direct effect on the price of the house. What criterias effect housing prices the most?
 
+## Reason:
+
+The current housing market has been very tubulent with never before seen prices due to the situation in the market.  Prices have been increasing and inventory low.  People going through bidding wars in order to win a house.  Traditionally there are factors that effect the price of the house due to location, size, land, etc.  We want find out what exact features of a house effect its price the most.
+
+## Team:
+
+* Paveen Bunyasrie
+* Enrique E.
+
 Applications Used:
 
 * Jupyter Notebook
