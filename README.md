@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-Our goal is to use housing data for King County, Washington and implement an exploratory analysis and potentially predict the sell price of a house based on criterias such from the given listed prices, quare footage, amount of land, how many bedrooms and or bathrooms.  We want to see what factors effect the pricing of housing and have a direct effect on the price of the house. What criterias effect housing prices the most?
+Our goal is to use housing data for King County, Washington and implement an exploratory analysis and potentially predict the future price of a house based on criterias such from the given listed prices, quare footage, amount of land, how many bedrooms and or bathrooms.  We want to see what factors effect the pricing of housing and have a direct effect on the price of the house. What criterias effect housing prices the most?
 
 
 ## Reason:
