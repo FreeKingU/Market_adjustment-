@@ -13,6 +13,24 @@ The current housing market has been very tubulent with never before seen prices 
 * Paveen Bunyasrie
 * Enrique E.
 
+### Applications Used:
+
+* Jupyter Notebook
+* Tableau
+* PGAdmin
+* Slack
+* Zoom
+* Excel
+* Github
+* Google Drive
+
+### Programming Languages:
+
+* Python modules and libraries
+* SQL
+
+We utilized Zoom, Slack, Github, and Google drive for communication and information sharing.
+
 ## Data Source:
 
 Our data was provided and found through Kaggle.  The information contains housing data for King County, Washington, which is mainly a Seattle Metorpolitan Area.  Our dataset contains data with house prices, number of bedrooms, number of bathrooms, lot size, square footage and other additional features.  The dataset was processed and cleaned to meet our needs for analysis and contains 21,613 houses for the years of 2014 and 2015.
@@ -21,19 +39,6 @@ Our data was provided and found through Kaggle.  The information contains housin
 * The column for waterfront was changed from 0 and 1 to just Yes or No if it was a waterfront house.
 
 The data was processed using a combination of Pandas/Python and Excel.
-
-Applications Used:
-
-* Jupyter Notebook
-* Tableau
-* PGAdmin
-* Slack
-* Zoom
-
-Programming:
-
-* Python
-* SQL
 
 ## Findings:
 
