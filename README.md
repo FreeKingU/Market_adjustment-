@@ -81,7 +81,5 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 
 [Click here to Interact with Data](https://public.tableau.com/app/profile/paveen.bunyasrie/viz/KC_House_Testing/Sheet4?publish=yes)
 
-## Calculations:
-
-![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/KC_R2.png)
+## Summary:
 
