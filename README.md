@@ -52,7 +52,7 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 
 ## Results:
 
-![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/Paveen/Sheet%201.png)
+![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/Images/Month%20and%20Sales.png)
 
 * Based on the totals for prices sold for homes, it seems that the month of April and May timeframe has the most home sales.
 
