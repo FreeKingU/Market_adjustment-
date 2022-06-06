@@ -65,7 +65,7 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 * The number of bedrooms seem to only slightly have an effect on the price of a home.
 * The number of bathrooms suprisingly show a strong positive correlation and significant effect on a home's price.
 
-![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/Paveen/Sheet%203.png)
+![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/Images/Average%20Prices%20by%20Zip.png)
 
 * High priced homes seem to be concentrated in an area.
 * One area close the the waterfront has the highest priced homes.
