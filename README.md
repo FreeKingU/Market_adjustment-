@@ -8,7 +8,7 @@ Our goal is to use housing data for King County, Washington and implement an exp
 
 ## Reason:
 
-The current housing market has been very tubulent with never before seen prices due to the situation in the market.  Prices have been increasing and inventory low.  People going through bidding wars in order to win a house.  Traditionally there are factors that effect the price of the house due to location, size, land, etc.  We want find out what exact features of a house effect its price the most by using past data.
+The current housing market has been very turbulent with never before seen prices due to the situation in the market.  Prices have been increasing and inventory low.  People going through bidding wars in order to win a house.  Traditionally there are factors that affect the price of the house due to location, size, land, etc.  We want find out what exact features of a house effect its price the most by using past data.
 
 
 ## Team:
@@ -81,5 +81,4 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 
 [Click here to Interact with Data](https://public.tableau.com/app/profile/paveen.bunyasrie/viz/KC_House_Testing/Sheet4?publish=yes)
 
-## Summary:
 
