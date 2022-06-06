@@ -70,6 +70,10 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 * High priced homes seem to be concentrated in an area.
 * One area close the the waterfront has the highest priced homes.
 
+![This is an image]
+
+* This shows the sales amount for each zip code in within the county.  Most of the sales were concentrated in the suburban areas.
+
 ![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/Images/Median%20Price%20vs%20Year%20Built.png)
 
 * Older and Newer homes seem to the biggest median priced homes.
