@@ -70,7 +70,7 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 * High priced homes seem to be concentrated in an area.
 * One area close the the waterfront has the highest priced homes.
 
-![This is an image]
+![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/Images/Zip%20Code%20and%20Sales.png)
 
 * This shows the sales amount for each zip code in within the county.  Most of the sales were concentrated in the suburban areas.
 
