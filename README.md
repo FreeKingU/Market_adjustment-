@@ -56,7 +56,7 @@ Our tables were created using PostgresSQL and pgAdmin to create our database.  T
 
 * Based on the totals for prices sold for homes, it seems that the month of April and May timeframe has the most home sales.
 
-![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/Paveen/Sheet%202.png)
+![This is an image](https://github.com/FreeKingU/Market_adjustment-/blob/main/Images/Effects%20on%20House%20Prices.png)
 
 * There is a strong positive correlation between Square Footage of the main floor of a home and sell price.
 * The Square Footage of the the lot size does not seem to have a significant direct effec on the sell price of the home.
